@@ -1,5 +1,13 @@
 :root {
     --outer-space: white;
     --bright-green: rgb(31, 227, 31);
-    --beige: rgb(243, 234, 234);
+    --beige: rgb(185, 177, 177);
+    --background-grey: rgb(106, 100, 100);
+    --background-yellow: rgb(182, 182, 96);
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
