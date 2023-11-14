@@ -55,3 +55,24 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+
+
+.home {
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    position: relative;
+    height: 700px;
+    width: 100%;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    background-color:rgb(31, 227, 31);
+}
+
+.home pre {
+    
+    font-size: 80px;
+    
+
+  */
+}
