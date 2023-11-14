@@ -74,5 +74,17 @@ a {
     font-size: 80px;
     
 
-  */
+  
+}
+
+.recent-work {
+
+    display:flex;
+    background-color: blueviolet;
+    justify-content: space-evenly;
+}
+
+#Horiseon {
+
+    flex: 0.5;
 }
