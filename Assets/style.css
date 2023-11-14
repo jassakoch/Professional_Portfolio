@@ -80,6 +80,7 @@ a {
 .recent-work {
 
     display:flex;
+    flex-wrap:wrap;
     background-color: blueviolet;
     justify-content: space-evenly;
 }
