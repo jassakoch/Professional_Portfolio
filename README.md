@@ -24,7 +24,7 @@ n/a
 
 
     
-    ![alt text](./Assets/PortfolioScreenshot.html.png)
+    ![alt text](Assets/PortfolioScreenshot.html.png)
     
 
 ## Credits
