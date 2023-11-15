@@ -21,10 +21,10 @@ n/a
 
 ## Usage
 
-
+![Alt text](Assets/PortfolioScreenshot.html.png)
 
     
-    ![alt text](/Professional_Portfolio/Assets/PortfolioScreenshot.html.png)
+  
     
 
 ## Credits
